@@ -1,4 +1,4 @@
-# django-deploy-gunicorn-nginx-linux
+# guide-django-deploy-gunicorn-nginx-linux
 This is a complete quick guide to deploy a django application with apache2 web server using gunicorn interface.
 
 To deploy a **Django** application on your VPS, you typically use **Gunicorn** as the application server and **Nginx** (or Apache) as the reverse proxy. Here's a step-by-step guide on deploying Django on your VPS, assuming you're using **Apache2** (since you used Apache earlier) and want to set it up with a domain and SSL.
