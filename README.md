@@ -189,4 +189,3 @@ Visit your domain (`http://your-domain.com` or `https://your-domain.com` if usin
 - **Certbot**: Use it to set up SSL for secure HTTPS access.
 - **Static Files**: Serve them using Apache while routing dynamic requests to Gunicorn.
 
-Let me know if you need further clarification or help with any specific step!
